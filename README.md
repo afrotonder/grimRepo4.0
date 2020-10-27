@@ -1,7 +1,6 @@
 # grimRepo4.0
-Personal 'watched horror film' app.
-Frontend: angular
-backend API: nodejs. 
+
+Personal 'watched horror film' app. Made with angular, nodejs and love. 🔥
 
 
 
